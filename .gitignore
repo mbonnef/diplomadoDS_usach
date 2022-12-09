@@ -1,3 +1,5 @@
 venv
 Clases
-.vscode
+.vscode/*
+.vscode/
+!.vscode/settings.json
