@@ -1,4 +1,4 @@
-# 1. Intrducción
+# 1. Introducción
 
 # 2. Librerías ocupadas
 
@@ -14,7 +14,7 @@ python -m venv nombre_entorno
 . /venv/scripts/activate
 ```
 
-2.- Instalar kernel 
+2.- Instalar kernel
 
 ```
 pip install ipykernel
